@@ -2,7 +2,7 @@
    
     
     //connect with the database
-    $db =  mysqli_connect("localhost","root","staf1993","Currency") or die("Unable to connect to MySQL");
+    $db =  mysqli_connect("localhost","root","staf","Currency") or die("Unable to connect to MySQL");
     
 
 
